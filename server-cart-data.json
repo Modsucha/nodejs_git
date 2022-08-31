@@ -1,0 +1,18 @@
+[
+    {
+        "id": 4,
+        "title": "Chair",
+        "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+        "price": 319,
+        "image_tag": "https://i.pinimg.com/564x/bb/bb/76/bbbb765633bf1fee9721f38eb217424c.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "title": "Table",
+        "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+        "price": 789,
+        "image_tag": "https://i.pinimg.com/564x/5b/41/99/5b4199c475b47deeaee53e3f681bd327.jpg",
+        "quantity": 3
+    }
+]
